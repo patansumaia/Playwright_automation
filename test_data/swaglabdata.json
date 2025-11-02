@@ -1,0 +1,9 @@
+{
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "invalidusername": "sssss",
+    "invalidpassword":"12345",
+    "usernamelu": "locked_out_user",
+    "usernamepu": "problem_user",
+    "usernamepgu": "performance_glitch_user"
+}
